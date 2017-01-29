@@ -1,0 +1,11 @@
+[package]
+name = "instancing"
+version = "0.1.0"
+authors = ["Simon Heath <icefoxen@gmail.com>"]
+
+[dependencies]
+winit = "0.5"
+rand = "0.3"
+gfx = "0.14"
+gfx_window_glutin = "0.14"
+glutin = "0.7"
